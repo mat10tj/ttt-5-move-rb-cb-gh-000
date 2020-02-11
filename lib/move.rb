@@ -10,7 +10,8 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(string)
-string.to_i -= 1
+string = string - 1
+string.to_i
 end
 
 def move(array, index, value = "X")
