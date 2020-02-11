@@ -7,3 +7,4 @@ require_relative '../lib/move.rb'
 greeting
 input_to_index()
 move()
+display_board()
