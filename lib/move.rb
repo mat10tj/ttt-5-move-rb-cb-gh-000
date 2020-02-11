@@ -9,7 +9,7 @@ end
 
 
 # code your input_to_index and move method here!
-def input_to_index(board, index)
+def input_to_index(board)
 board[index].to_i
 end
 
