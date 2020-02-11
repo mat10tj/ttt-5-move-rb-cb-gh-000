@@ -7,5 +7,5 @@ require_relative '../lib/move.rb'
 greeting
 board = [" "," ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
-input_to_index(board)
+input_to_index(input)
 move(array, index, value = "X")
