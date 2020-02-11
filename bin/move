@@ -4,6 +4,6 @@ require_relative '../lib/move.rb'
 
 # Code your CLI Here
 greeting
-display_board()
+
 input_to_index()
 move()
